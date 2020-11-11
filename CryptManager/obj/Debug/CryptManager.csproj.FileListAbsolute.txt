@@ -1,0 +1,6 @@
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\CryptManager\bin\Debug\CryptManager.dll
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\CryptManager\bin\Debug\CryptManager.pdb
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\CryptManager\obj\Debug\CryptManager.csprojAssemblyReference.cache
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\CryptManager\obj\Debug\CryptManager.csproj.CoreCompileInputs.cache
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\CryptManager\obj\Debug\CryptManager.dll
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\CryptManager\obj\Debug\CryptManager.pdb

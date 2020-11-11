@@ -1,0 +1,9 @@
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\bin\Debug\Enctypt.dll
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\bin\Debug\Enctypt.pdb
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\bin\Debug\CryptManager.dll
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\bin\Debug\CryptManager.pdb
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\obj\Debug\Enctypt.csprojAssemblyReference.cache
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\obj\Debug\Enctypt.csproj.CoreCompileInputs.cache
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\obj\Debug\Enctypt.csproj.CopyComplete
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\obj\Debug\Enctypt.dll
+C:\Users\gfdsr\OneDrive\prFiles\friends\Olia\CSharp\Diploma\DiplomaEncodingLib\Enctypt\obj\Debug\Enctypt.pdb
